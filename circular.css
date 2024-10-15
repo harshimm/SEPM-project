@@ -1,0 +1,29 @@
+.Circular
+{
+    padding: 5% 10%;
+}
+
+#cir
+{
+    color: red;
+    text-align: center;
+}
+
+#salutation, #by, #des, #closure
+{
+    color: red;  
+    font-weight: bold;
+    line-height: 5px;
+}
+
+#cir_no, #date
+{
+    color: green;
+    font-weight: bold;
+    line-height: 20px;
+}
+#content
+{
+    color: blue;
+    line-height: 40px;
+}

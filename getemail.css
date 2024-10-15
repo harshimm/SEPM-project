@@ -1,0 +1,58 @@
+body
+{  
+    margin: 0;  
+    padding: 0; 
+    font-family: 'Times New Roman';
+    
+}
+
+#logo
+{   background-color: white;
+   
+    padding: 60px;
+}
+
+
+.reset{  
+        width: 390px; 
+        overflow: hidden;  
+        margin :auto;
+        margin: 20 0 0 50px;  
+        padding: 50px 60px 50px 60px; 
+        background:royalblue;  
+        border-radius: 15px ; 
+}
+
+
+label{  
+    color: white;  
+    font-size: 17px; 
+    padding-left: 10px; 
+}
+
+#Email{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px; 
+}    
+       
+#submit{  
+    width: 100px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;    
+    color: black;
+    background-color: rgb(156, 156, 156); 
+    position: relative;
+    font-weight: bold;  
+}  
+
+#submit:hover
+{
+    color: rgb(156, 156, 156);
+    background-color:black; 
+}
+ 
+  

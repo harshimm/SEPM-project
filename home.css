@@ -1,0 +1,62 @@
+body
+{  
+    margin: 0;  
+    padding: 0; 
+    font-family: 'Times New Roman';
+}
+
+#logo
+{
+    background-color: rgb(192, 190, 190);
+    overflow: hidden;
+    padding: 10px;
+}
+
+.lleft
+{
+    float:left;
+}
+.lright
+{
+    float: right;
+}
+
+.navbar
+{
+    
+        overflow: hidden; 
+        background-color: black; 
+    
+}
+
+.navbar a {
+    float: left; 
+    display: block; 
+    color: white; 
+    text-align: center; 
+    padding: 14px 20px; 
+    text-decoration: none; 
+  }
+
+  .navbar a:hover {
+    color: cornflowerblue;
+    text-shadow: 1px 1px 1px white;
+    
+  }
+  
+  
+  .navbar a.right {
+    float: right; 
+  }
+
+  
+
+  #description
+  {
+      text-align: center;
+      position: relative;
+      top: 50%;
+      bottom: 50%;
+  }
+
+ 

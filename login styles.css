@@ -1,0 +1,80 @@
+body
+{  
+    margin: 0;  
+    padding: 0; 
+    font-family: 'Times New Roman';
+    background: linear-gradient(rgba(187, 21, 21, 0.712),rgba(187, 21, 21, 0.712)), url('./pexels-photo-267885.jpeg'); 
+    background-size: cover;
+}
+
+#logo
+{   background-color: rgb(192, 190, 190);
+    overflow: hidden;
+    padding: 10px;
+}
+.lleft
+{
+    float: left;   
+}
+.lright
+{
+    float: right;
+}
+.login{  
+        width: 382px; 
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 50px;  
+        padding: 60px;  
+        background:black;  
+        border-radius: 15px ; 
+}  
+h2{  
+    text-align: center;  
+    color: white;  
+    padding: 20px;  
+}  
+
+
+label{  
+    color: white;  
+    font-size: 17px;  
+}  
+#Email{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 250px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 100px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;    
+    color: black;
+    background-color: rgb(156, 156, 156); 
+    position: relative;
+    left:35%;
+    font-weight: bold;  
+}  
+
+#log:hover
+{   color:rgb(156, 156, 156) ;
+    background-color:black; 
+}
+  
+a{  
+    float: right;  
+    color: white;
+    position: relative;
+    left : -37%;  
+}  
